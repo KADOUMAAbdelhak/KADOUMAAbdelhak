@@ -16,5 +16,7 @@
 
 📫 You can reach me at ha_kadouma@esi.dz or connect with me on [LinkedIn](https://www.linkedin.com/in/kadoumaabdelhak/).
 
+🧑‍💻 I’m looking to collaborate on open source projects
+
 Happy coding! 🚀
 
